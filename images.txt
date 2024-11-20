@@ -1,1 +1,8 @@
 vulhub/couchdb:2.1.0
+vulhub/couchdb:1.6.0
+vulhub/couchdb:3.2.1
+vulhub/elasticsearch:1.1.1
+vulhub/elasticsearch:1.4.2
+vulhub/elasticsearch:1.4.4
+vulhub/elasticsearch:1.6.0
+vulhub/elasticsearch:1.5.1-with-tomcat
