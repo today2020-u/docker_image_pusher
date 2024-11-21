@@ -1,1 +1,1 @@
-vulhub/rsync:3.1.2
+ debian:jessie
