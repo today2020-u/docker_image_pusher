@@ -1,1 +1,4 @@
-shmilylty/oneforall
+mysql:5.7
+rabbitmq:3-management-alpine
+nemo:v2
+ubuntu:22.04
