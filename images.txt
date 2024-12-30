@@ -1,2 +1,1 @@
-nemo:v2
-ubuntu:22.04
+idootop/mi-gpt:latest
