@@ -1,1 +1,1 @@
-janes/beef
+ubuntu:18.04
